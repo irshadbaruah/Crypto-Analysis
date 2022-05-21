@@ -1,2 +1,2 @@
 # Crypto-Analysis
-Different crypto currency analysis...
+Different crypto currency analysis.
